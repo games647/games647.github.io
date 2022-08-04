@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: games647.github.io
+Token: 26b4e24ece5d3c3697720ccdcc74aaff38d0b242bdee8b6fd3126a73716bf7e0
